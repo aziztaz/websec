@@ -2,7 +2,7 @@
 // Nécessaire à la récupération des informations de session
 session_start();
 
-// Import des fonctions liées à la manipulation d'un user
+// Import des fonctions liées à la manipulation d'un user checkout
 require_once('handler/user.php');
 
 if (isset($_POST['delete']))
