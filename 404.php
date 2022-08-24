@@ -1,6 +1,7 @@
 <?php 
 
 // Nécessaire à la récupération des informations de session
+//test ata
 session_start();
 
 ?>
